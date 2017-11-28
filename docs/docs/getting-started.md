@@ -211,7 +211,7 @@ Eagle requires the following dependencies:
     * Zookeeper: 3.4.6 or later
     * Java: 1.8.x
 * For metadata database dependencies (Choose one of them)
-    * MangoDB 3.2.2 or later
+    * MongoDB 3.2.2 or later
         * Installation is required
     * Mysql 5.1.x or later
         * Installation is required
